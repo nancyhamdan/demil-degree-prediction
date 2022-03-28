@@ -1,3 +1,5 @@
+# Predicting the Demilitarization Degree of Military Items - Multiclass Classification
+
 This project presents findings from exploring the Military Equipment for Local Law Enforcement
 dataset that is provided from The Defense Logistics Agency (DLA) in the United States. Excess
 military equipment and devices from the Department of Defense in the US are handled by the
@@ -9,7 +11,7 @@ contains 130958 records representing the transfers that happened between 01/01/1
 All military items that are transferred must be demilitarized to some degree; the degree of
 demilitarization required is represented by the DEMIL Code attribute in the dataset. Each DEMIL
 Code has a corresponding DEMIL IC representing the integrity of the DEMIL Code registered for
-the transfer. This report details the process that was followed in building a high performing deep
+the transfer. This project details the process that was followed in building a high performing deep
 learning predictor of the DEMIL Code and in deriving key insights about the data.
 
 You can read the full report in [this document](./report.pdf) and you can find the code [here](./DLA_multiclass_classification.ipynb)
