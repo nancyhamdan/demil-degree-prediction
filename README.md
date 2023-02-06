@@ -14,6 +14,4 @@ Code has a corresponding DEMIL IC representing the integrity of the DEMIL Code r
 the transfer. This project details the process that was followed in building a high performing deep
 learning predictor of the DEMIL Code and in deriving key insights about the data.
 
-You can read the full report in [this document](./report.pdf) and you can find the code [here](./DLA_multiclass_classification.ipynb)
-
 You can find the dataset that was used [here](./AllStatesAndTerritoriesQTR4FY21.xlsx) along with its dictionary [here](./MeaningOfFieldsInTheDataset.pdf)
